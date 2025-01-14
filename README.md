@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lovakumar poluparti</h1>
 <h3 align="center">I'm a Subject Matter Expert in AI/ML at Edunet foundation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/lovakumar12&color=0e75b6&style=flat" alt="lovakumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/lovakumar12&color=0e75b6&style=flat" alt="lovakumar12" /> </p>
 
 - 🔭 I’m currently working on *Edunetfoundation*
 
