@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Lovakumar poluparti</h1>
-<h3 align="center">I'm a Junior data scientist</h3>
+<h3 align="center">I'm a data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/lovakumar12&color=0e75b6&style=flat" alt="lovakumar12" /> </p>
 
-- 🔭 I’m currently working on *Edunetfoundation*
+- 🔭 I’m currently working on *AI Freelancer*
 
 - 🌱 Skills    *Python*   , *SQL* , *Statistics* , *Machine learning* , *Deeplearning* , *Computervision* , *NLP, **Generative AI, **MongoDB* , *VectorDB* , *AWS* , *HTML* , *CSS*
 
